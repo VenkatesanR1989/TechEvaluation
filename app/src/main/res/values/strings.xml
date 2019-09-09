@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TechEvaluationTask</string>
+    <string name="action_settings">Settings</string>
+    <string name="email_id">Email id</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="title_activity_post">PostActivity</string>
+    <string name="title_activity_get">GetActivity</string>
+    <string name="name">Name</string>
+    <string name="eid">Eid</string>
+    <string name="idbarahno">Idbarahno</string>
+    <string name="submit_post">Submit Post</string>
+    <string name="get_data">Get Data</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="unified_number">Unified Number</string>
+    <string name="email_address">Email Address</string>
+    <string name="numeric">0123456789</string>
+</resources>
